@@ -19,8 +19,13 @@ header {
   line-height: 2rem;
 }
 
+header h1 {
+  margin-bottom: 0.75rem;
+}
+
 header h3 {
   font-size: 1.1rem;
+  max-width: 65%;
 }
 
 header img {
