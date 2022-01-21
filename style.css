@@ -99,12 +99,11 @@ footer .icon:hover {
   header h3 {
     font-size: 1rem;
     margin-bottom: 0.25rem;
+    max-width: 100%;
   }
+
   main ul {
     margin-right: 2rem;
-  }
-  header h3 {
-    max-width: 100%;
   }
 }
 
